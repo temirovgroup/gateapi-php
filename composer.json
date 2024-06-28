@@ -20,13 +20,6 @@
             "homepage": "https://www.gate.io"
         }
     ],
-    "repositories":
-    [
-            {
-                "type": "vcs",
-                "url": "https://github.com/temirovgroup/gateapi-php"
-            }
-    ],
     "require": {
         "php": ">=7.1",
         "ext-curl": "*",
